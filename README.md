@@ -1,4 +1,4 @@
-# 🏥 HIPAA-Compliant Hub-and-Spoke Landing Zone on Azure
+# 🏥 HIPAA-Aligned Hub-and-Spoke Landing Zone on Azure
 
 **Status:** ✅ Complete — deployed, validated, and torn down
 
@@ -1301,4 +1301,4 @@ Notes:
 
 ---
 
-**Author:** Gavin Barbee | **Project:** HIPAA-Compliant Hub-and-Spoke Landing Zone | **Difficulty:** Intermediate–Advanced | **Time to Complete:** ~1.5 hours (deploy, validation, and teardown)
+**Author:** Gavin Barbee | **Project:** HIPAA-Aligned Hub-and-Spoke Landing Zone | **Difficulty:** Intermediate–Advanced | **Time to Complete:** ~1.5 hours (deploy, validation, and teardown)

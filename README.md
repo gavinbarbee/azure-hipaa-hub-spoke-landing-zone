@@ -4,7 +4,7 @@
 
 ## 🎬 Video Walkthrough
 
-> 🎥 **Loom walkthrough:** _link coming soon_
+> 🎥 **[Watch the Loom walkthrough](https://www.loom.com/share/4d80fe3379b94fd98dc0426f98b31855)**
 
 ## 📖 Project Overview
 
